@@ -1,7 +1,7 @@
 # mini_angr
 
 ## Introduction
-This is a simple imitation of [angr (an advanced symbolic execution engine)](https://github.com/angr/angr).
+This is a simple imitation of [angr](https://github.com/angr/angr) (an advanced symbolic execution engine).
 
 ## Why?
 There are several reasons why I decided to develop this project:
